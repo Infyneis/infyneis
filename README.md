@@ -20,7 +20,7 @@
 <br/>
 
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=samypnotise&theme=ambient_gradient&hide_border=false">
-<img height=250 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samypnotise&theme=ambient_gradient&hide_border=false"/>
+<img height=350 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samypnotise&theme=ambient_gradient&hide_border=false"/>
 </a>
 
 # 🏆 GitHub Trophies
