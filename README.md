@@ -24,12 +24,8 @@
 
 <br/>
 
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=samypnotise&theme=shades-of-purple&hide_border=false">
-<img height=330 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samypnotise&theme=shades-of-purple&hide_border=false"/>
-</a>
-
-<a href="https://streak-stats.demolab.com?user=samypnotise&theme=shades-of-purple&short_numbers=true&background=2C2B55&ring=FBD003&fire=63FDC9&currStreakLabel=63FDC9&currStreakNum=FBD003" alt="GitHub streak">
-<img height=330 src="https://streak-stats.demolab.com?user=samypnotise&theme=shades-of-purple&short_numbers=true&background=2C2B55&ring=FBD003&fire=63FDC9&currStreakLabel=63FDC9&currStreakNum=FBD003" alt="GitHub streak" />
+<a href="https://streak-stats.demolab.com?user=samypnotise&theme=shades-of-purple&short_numbers=false&background=2C2B55&ring=FBD003&fire=63FDC9&currStreakLabel=63FDC9&currStreakNum=FBD003" alt="GitHub streak">
+<img height=330 src="https://streak-stats.demolab.com?user=samypnotise&theme=shades-of-purple&short_numbers=false&background=2C2B55&ring=FBD003&fire=63FDC9&currStreakLabel=63FDC9&currStreakNum=FBD003" alt="GitHub streak" />
 </a>
 
 
