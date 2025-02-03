@@ -38,3 +38,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=samypnotise&theme=shades-of-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=samypnotise&hide_border=false&include_all_commits=true&bg_color=2c2b55&text_color=ffffff&icon_color=63fdc9&title_color=e8b900&layout=pie)
 -->
+![](https://streak-stats.demolab.com/?user=samypnotise&theme=shades-of-purple&short_numbers=false&background=2C2B55&ring=FBD003&fire=63FDC9&currStreakLabel=63FDC9&currStreakNum=FBD003)
