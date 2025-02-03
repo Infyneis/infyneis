@@ -1,6 +1,8 @@
 # 💫 About Me
-💻 Software Engineer<br>📱 Currently developing a mobile app.<br>🤝 Looking to collaborate with web developers.<br>📚 Learning Flutter, NestJS, and NextJS !
-
+💻 Software Engineer<br>
+📱 Currently developing a mobile app.<br>
+🤝 Looking to collaborate with web developers.<br>
+📚 Learning Flutter, NestJS, and NextJS !
 
 # 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samy-djemili) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samy.djemili@infyneis.com) 
