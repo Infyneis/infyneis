@@ -19,7 +19,7 @@
 
 <br/>
 
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=samypnotise&theme=shades-of-purpe&hide_border=false">
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=samypnotise&theme=shades-of-purple&hide_border=false">
 <img height=330 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samypnotise&theme=shades-of-purple&hide_border=false"/>
 </a>
 
