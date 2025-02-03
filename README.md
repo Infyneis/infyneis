@@ -15,7 +15,3 @@
 
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=samypnotise&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
-
----
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=samypnotise&theme=ambient_gradient&hide_border=false)
