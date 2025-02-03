@@ -14,7 +14,7 @@
 </a>
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=samypnotise&hide_border=false&include_all_commits=true&bg_color=2c2b55&text_color=ffffff&icon_color=63fdc9&title_color=e8b900&layout=pie">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samypnotise&hide_border=false&include_all_commits=true&bg_color=2c2b55&text_color=ffffff&icon_color=63fdc9&title_color=e8b900&layout=pie"/>
+<img height=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samypnotise&hide_border=false&include_all_commits=true&bg_color=2c2b55&text_color=ffffff&icon_color=63fdc9&title_color=e8b900&layout=pie"/>
 </a>
 
 
