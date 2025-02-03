@@ -25,7 +25,7 @@
 <br/>
 
 <a href="https://streak-stats.demolab.com?user=samypnotise&theme=shades-of-purple&short_numbers=false&background=2C2B55&ring=FBD003&fire=63FDC9&currStreakLabel=63FDC9&currStreakNum=FBD003" alt="GitHub streak">
-<img height=330 src="https://streak-stats.demolab.com?user=samypnotise&theme=shades-of-purple&short_numbers=false&background=2C2B55&ring=FBD003&fire=63FDC9&currStreakLabel=63FDC9&currStreakNum=FBD003" alt="GitHub streak" />
+<img height=330 align="center" src="https://streak-stats.demolab.com?user=samypnotise&theme=shades-of-purple&short_numbers=false&background=2C2B55&ring=FBD003&fire=63FDC9&currStreakLabel=63FDC9&currStreakNum=FBD003" alt="GitHub streak" />
 </a>
 
 
