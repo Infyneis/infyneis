@@ -14,12 +14,12 @@
 
 
 # 📊 GitHub Stats
-<a href="https://github-readme-stats.vercel.app/api?username=samypnotise&hide_border=false&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&bg_color=2c2b55&text_color=ffffff&icon_color=63fdc9&title_color=e8b900&ring_color=e8b900">
-<img height=350 align="center" src="https://github-readme-stats.vercel.app/api?username=samypnotise&hide_border=false&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&bg_color=2c2b55&text_color=ffffff&icon_color=63fdc9&title_color=e8b900&ring_color=e8b900"/>
+<a href="https://github-readme-stats.vercel.app/api?username=samypnotise&hide_border=false&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&bg_color=2c2b55&text_color=ffffff&icon_color=63fdc9&title_color=fbd003&ring_color=fbd003">
+<img height=350 align="center" src="https://github-readme-stats.vercel.app/api?username=samypnotise&hide_border=false&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&bg_color=2c2b55&text_color=ffffff&icon_color=63fdc9&title_color=fbd003&ring_color=fbd003"/>
 </a>
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=samypnotise&hide_border=false&include_all_commits=true&bg_color=2c2b55&text_color=ffffff&icon_color=63fdc9&title_color=e8b900&layout=pie">
-<img height=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samypnotise&hide_border=false&include_all_commits=true&bg_color=2c2b55&text_color=ffffff&icon_color=63fdc9&title_color=e8b900&layout=pie"/>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=samypnotise&hide_border=false&include_all_commits=true&bg_color=2c2b55&text_color=ffffff&icon_color=63fdc9&title_color=fbd003&layout=pie">
+<img height=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samypnotise&hide_border=false&include_all_commits=true&bg_color=2c2b55&text_color=ffffff&icon_color=63fdc9&title_color=fbd003&layout=pie"/>
 </a>
 
 <br/>
