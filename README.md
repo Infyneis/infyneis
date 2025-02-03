@@ -2,7 +2,7 @@
 💻 Software Engineer<br>📱 Currently developing a mobile app.<br>🤝 Looking to collaborate with web developers.<br>📚 Learning Flutter, NestJS, and NextJS !
 
 
-## 🌐 Socials
+# 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samy-djemili) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samy.djemili@infyneis.com) 
 
 # 💻 Tech Stack
@@ -13,8 +13,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=samypnotise&theme=ambient_gradient&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=samypnotise&hide_border=false&include_all_commits=true&bg_color=2c2b55&text_color=ffffff&icon_color=63fdc9&title_color=e8b900&layout=pie)
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=samypnotise&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=samypnotise&icon=6&color=6)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=samypnotise&icon=6&color=6)](https://visitcount.itsvg.in)
