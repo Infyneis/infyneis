@@ -10,7 +10,7 @@
 
 # 📊 GitHub Stats
 <a href="https://github-readme-stats.vercel.app/api?username=samypnotise&hide_border=false&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&bg_color=2c2b55&text_color=ffffff&icon_color=63fdc9&title_color=e8b900&ring_color=63fdc9">
-<img height=350 align="center" src="https://github-readme-stats.vercel.app/api?username=samypnotise&hide_border=false&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&bg_color=2c2b55&text_color=ffffff&icon_color=63fdc9&title_color=e8b900&ring_color=63fdc9"/>
+<img height=350 align="center" src="https://github-readme-stats.vercel.app/api?username=samypnotise&hide_border=false&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&bg_color=2c2b55&text_color=ffffff&icon_color=63fdc9&title_color=e8b900"/>
 </a>
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=samypnotise&hide_border=false&include_all_commits=true&bg_color=2c2b55&text_color=ffffff&icon_color=63fdc9&title_color=e8b900&layout=pie">
@@ -19,8 +19,8 @@
 
 <br/>
 
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=samypnotise&theme=ambient_gradient&hide_border=false">
-<img height=330 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samypnotise&theme=ambient_gradient&hide_border=false"/>
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=samypnotise&theme=shades-of-purpe&hide_border=false">
+<img height=330 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samypnotise&theme=shades-of-purple&hide_border=false"/>
 </a>
 
 # 🏆 GitHub Trophies
