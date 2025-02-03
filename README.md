@@ -31,7 +31,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=samypnotise&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-![](https://github-readme-streak-stats.herokuapp.com/?user=samypnotise&theme=shades-of-purple&hide_border=false)<br/>
 <!-- Links for separated stats
 ![](https://github-readme-stats.vercel.app/api?username=samypnotise&hide_border=false&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&bg_color=2c2b55&text_color=ffffff&icon_color=63fdc9&title_color=e8b900&ring_color=63fdc9)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=samypnotise&theme=shades-of-purple&hide_border=false)<br/>
