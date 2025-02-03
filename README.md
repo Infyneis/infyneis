@@ -24,6 +24,8 @@
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=samypnotise&theme=shades-of-purple&hide_border=false">
 <img height=330 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samypnotise&theme=shades-of-purple&hide_border=false"/>
 </a>
+![](https://github-readme-streak-stats.herokuapp.com/?user=samypnotise&theme=shades-of-purple&hide_border=false)<br/>
+
 
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=samypnotise&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
