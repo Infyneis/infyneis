@@ -15,11 +15,11 @@
 
 # 📊 GitHub Stats
 <a href="https://github-readme-stats.vercel.app/api?username=samypnotise&hide_border=false&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&bg_color=2c2b55&text_color=ffffff&icon_color=63fdc9&title_color=fbd003&ring_color=fbd003" alt="GitHub stats">
-<img height=310 align="center" src="https://github-readme-stats.vercel.app/api?username=samypnotise&hide_border=false&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&bg_color=2c2b55&text_color=ffffff&icon_color=63fdc9&title_color=fbd003&ring_color=fbd003" alt="GitHub stats"/>
+<img height=315 align="center" src="https://github-readme-stats.vercel.app/api?username=samypnotise&hide_border=false&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&bg_color=2c2b55&text_color=ffffff&icon_color=63fdc9&title_color=fbd003&ring_color=fbd003" alt="GitHub stats"/>
 </a>
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=samypnotise&hide_border=false&include_all_commits=true&bg_color=2c2b55&text_color=ffffff&icon_color=63fdc9&title_color=fbd003&layout=pie" alt="Top languages">
-<img height=310 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samypnotise&hide_border=false&include_all_commits=true&bg_color=2c2b55&text_color=ffffff&icon_color=63fdc9&title_color=fbd003&layout=pie" alt="Top languages"/>
+<img height=315 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samypnotise&hide_border=false&include_all_commits=true&bg_color=2c2b55&text_color=ffffff&icon_color=63fdc9&title_color=fbd003&layout=pie" alt="Top languages"/>
 </a>
 
 <br>
