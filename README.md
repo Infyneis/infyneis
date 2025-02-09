@@ -6,7 +6,7 @@
 <br>&nbsp;<br>
 
 # 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samy-djemili) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samy.djemili@infyneis.com) 
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/samy-djemili) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samy.djemili@infyneis.com) 
 <br>&nbsp;<br>
 
 # 💻 Tech Stack
