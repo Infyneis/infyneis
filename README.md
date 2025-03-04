@@ -25,7 +25,7 @@
 <br>
 
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=samypnotise&theme=shades-of-purple&hide_border=falsetheme=shades-of-purple&short_numbers=false&background=2C2B55&ring=FBD003&fire=63FDC9&currStreakLabel=63FDC9&currStreakNum=FBD003" alt="GitHub streak">
-<img height=300 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samypnotise&theme=shades-of-purple&hide_border=falsetheme=shades-of-purple&short_numbers=false&background=2C2B55&ring=FBD003&fire=63FDC9&currStreakLabel=63FDC9&currStreakNum=FBD003" alt="GitHub streak" />
+<img height=280 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samypnotise&theme=shades-of-purple&hide_border=falsetheme=shades-of-purple&short_numbers=false&background=2C2B55&ring=FBD003&fire=63FDC9&currStreakLabel=63FDC9&currStreakNum=FBD003" alt="GitHub streak" />
 </a>
 <br>&nbsp;<br>
 
