@@ -1,5 +1,5 @@
 # 💫 About Me
-💻 Software Engineer<br>
+💻 Full Stack Software Engineer<br>
 📱 Currently developing a mobile app.<br>
 🤝 Looking to collaborate with everyone.<br>
 📚 Learning Flutter, NestJS, and NextJS !
