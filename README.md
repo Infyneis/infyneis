@@ -1,3 +1,16 @@
+<div align="center">
+
+  <!-- Animated Header -->
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FBD003&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Samy+Djemili;Full+Stack+Software+Engineer;Building+Digital+Experiences)](https://git.io/typing-svg)
+
+  <br>
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samy-djemili)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samy.djemili@infyneis.com)
+  [![Profile Views](https://komarev.com/ghpvc/?username=infyneis&style=for-the-badge&color=blueviolet)](https://github.com/infyneis)
+
+  </div>
+  
 # 💫 About Me
 💻 Full Stack Software Engineer<br>
 📱 Currently developing a mobile app.<br>
