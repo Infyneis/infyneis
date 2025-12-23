@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Animated Header -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FBD003&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Samy+DJEMILI;Full+Stack+Software+Engineer;Building+digital+experiences)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FBD003&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Samy+DJEMILI;Full+Stack+Software+Engineer;Building+digital+experiences)](https://git.io/typing-svg)
   
   <br>
   
